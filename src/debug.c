@@ -679,11 +679,6 @@ static const struct DebugMenuOption sDebugMenu_Actions_Main[] =
     { NULL }
 };
 
-static void (*const sDebugMenu_Actions_Utilities[])(u8) =
-{
-    [DEBUG_UTIL_MENU_ITEM_MINING_MINIGAME] = DebugAction_Util_Mining_Minigame,
-};
-
 // *******************************
 // Windows
 static const struct WindowTemplate sDebugMenuWindowTemplateMain =
