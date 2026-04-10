@@ -4,6 +4,7 @@
 
 <!-- If you want to re-record or change these gifs, here are some notes that I used: https://files.catbox.moe/05001g.md -->
 
+This is a current project intended to demake Pokemon Diamond, Pearl, and Platinum onto a GBA platform in gen-2 style by utilizing pokeemerald-expansion.
 **`pokeemerald-expansion`** is a GBA ROM hack base that equips developers with a comprehensive toolkit for creating Pokémon ROM hacks. **`pokeemerald-expansion`** is built on top of [pret's `pokeemerald`](https://github.com/pret/pokeemerald) decompilation project. **It is not a playable Pokémon game on its own.** 
 
 # [Features](FEATURES.md)
@@ -21,6 +22,8 @@ Based off RHH's pokeemerald-expansion 1.13.2 https://github.com/rh-hideout/pokee
 ```
 
 Please consider [crediting all contributors](CREDITS.md) involved in the project!
+
+Graphics - Aveontrainer for Lucas/Dawn sprites, Zaebucca for tilesets, with tilesets also imported from Pokemon Crystal.
 
 # Choosing `pokeemerald` or **`pokeemerald-expansion`**
 
